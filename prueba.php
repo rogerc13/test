@@ -16,7 +16,7 @@ const PROGRAMADOR = 3;
 const FACILITADOR = 4;
 const PARTICIPANTE = 5;
 
-
+const CAMBIO= 6;
 
 const THOS=5;
 
